@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'lexend';
+    src: url('fonts/LexendDeca-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'bigshoulders';
+    src: url('fonts/BigShouldersDisplay-VariableFont_wght.ttf') format('truetype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
