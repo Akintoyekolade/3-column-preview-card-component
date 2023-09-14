@@ -165,6 +165,10 @@ body {
     .card-3 {
         border-radius: 0 8px 8px 0;
     }
+
+    .button {
+        margin-top: 86px;
+    }
 }
 
 
