@@ -150,7 +150,11 @@ body {
         display: inline-flex;
         align-content: center;
         margin-bottom: 64px;
-        max-width: 100%;
+        
+    }
+
+    .cards {
+        max-width: 310px;
     }
 
     body {
